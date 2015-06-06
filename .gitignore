@@ -1,0 +1,7 @@
+.ropeproject/
+*.sqlite3
+*.swp
+*.un~
+*.pyc
+
+
